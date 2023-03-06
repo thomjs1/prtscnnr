@@ -49,7 +49,7 @@ Adding in threading:  <br/>
 <img src="https://i.imgur.com/iLnuikV.png" height="80%" width="80%">
 <br />
 <br />
-Checks end time of scan and calcuates the differnce between start and end times to output the total time of the scan:  <br/>
+Checks the end time of the scan and calculates the total scan time:  <br/>
 <img src="https://i.imgur.com/GOFPSo1.png" height="80%" width="80%">
 <br />
 <br />
