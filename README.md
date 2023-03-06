@@ -17,8 +17,8 @@ Future improvements will be added to the scanner.
 <h2>Walkthrough:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Importing Modules: <br/>
+<img src="https://imgur.com/WuGn5QL" height="80%" width="80%" alt="Import Modules
 <br />
 <br />
 Select the disk:  <br/>
