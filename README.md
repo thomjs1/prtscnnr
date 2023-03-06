@@ -58,6 +58,8 @@ Prints the output of the scan onto the terminal and also creates a file with the
 <img src="https://i.imgur.com/tAKZwjC.png" height="80%" width="80%">
 <br />
 <br />
+Demonstration of port scanner:  <br/>
+<img src="https://i.imgur.com/guIqpsB.png" height="80%" width="80%">
 </p>
 
 <!--
