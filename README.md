@@ -1,7 +1,11 @@
 <h1>prtscanr - Port Scanner</h1>
 
 <h2>Description</h2>
-A simple port scanner created in Python that scans a target IP address and returns the open port number, service and version. The scanner utilies threading to vastly improve the speed of the scan. Once the scan is finished the results are output to a file for future reference. I used PrettyTable to format the output into a easy to read table.
+A simple port scanner created in Python that scans a target IP address and returns the open port number, service and service version. The scanner utilies threading to vastly improve the speed of the scan. Once the scan is finished the results are output to a file for future reference. 
+
+I used PrettyTable to format the output into a easy to read table and pyfiglet to create a banner with the name of the port scanner.
+
+Future improvements will be added to the scanner.
 <br />
 
 
