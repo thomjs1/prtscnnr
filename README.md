@@ -10,7 +10,7 @@ A simple port scanner created in Python that scans a target IP address and retur
 - <b>Python</b> 
 
 
-<h2>Program walk-through:</h2>
+<h2>Walkthrough:</h2>
 
 <p align="center">
 Launch the utility: <br/>
