@@ -23,7 +23,7 @@ Importing Modules: <br/>
 <br />
  
 Adding pyfiglet banner:  <br/>
-<img src="https://i.imgur.com/XG3YMFQ.png" height="80%" width="80%"
+<img src="[https://i.imgur.com/XG3YMFQ.png](https://i.imgur.com/XG3YMFQ.png)" height="80%" width="80%"
 <br />
 <br />
 
