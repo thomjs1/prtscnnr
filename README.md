@@ -18,7 +18,7 @@ Future improvements will be added to the scanner.
 
 <p align="center">
 Importing Modules: <br/>
-<img src="https://imgur.com/WuGn5QL" height="80%" width="80%" alt="Import Modules
+<img src="https://i.imgur.com/WuGn5QL.png" height="80%" width="80%" alt="Import Modules
 <br />
 <br />
 Select the disk:  <br/>
