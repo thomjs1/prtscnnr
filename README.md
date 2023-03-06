@@ -1,7 +1,7 @@
-<h1>prtscann - Port Scanner</h1>
+<h1>prtscanr - Port Scanner</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+A simple port scanner created in Python that scans a target IP address and returns the open port number, service and version. The scanner utilies threading to vastly improve the speed of the scan. Once the scan is finished the results are output to a file for future reference. I used PrettyTable to format the output into a easy to read table.
 <br />
 
 
