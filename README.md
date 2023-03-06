@@ -18,11 +18,11 @@ Future improvements will be added to the scanner.
 
 <p align="center">
 Importing Modules: <br/>
-<img src="https://i.imgur.com/WuGn5QL.png" height="80%" width="80%" alt="Import Modules
+<img src="https://i.imgur.com/WuGn5QL.png" height="80%" width="80%"
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding pyfiglet banner:  <br/>
+<img src="https://i.imgur.com/XG3YMFQ.png" height="80%" width="80%"
 <br />
 <br />
 Enter the number of passes: <br/>
